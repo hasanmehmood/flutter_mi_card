@@ -36,56 +36,45 @@ class MyApp extends StatelessWidget {
                   letterSpacing: 2.5,
                 ),
               ),
-              Container(
-                color: Colors.white,
-                margin: EdgeInsets.symmetric(
-                  vertical: 10,
-                  horizontal: 25,
-                ),
-                padding: EdgeInsets.all(10),
-                child: Row(
-                  children: [
-                    Icon(
-                      Icons.phone,
-                      color: Colors.teal.shade900,
-                    ),
-                    SizedBox(
-                      width: 10,
-                    ),
-                    Text(
-                      '+92 346 9192800',
-                      style: TextStyle(
-                          color: Colors.teal.shade900,
-                          fontSize: 15,
-                          fontFamily: 'SourceSansPro'),
-                    ),
-                  ],
+              SizedBox(
+                height: 20,
+                width: 150,
+                child: Divider(
+                  color: Colors.teal.shade100,
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
-                margin: EdgeInsets.symmetric(
-                  vertical: 10,
-                  horizontal: 25,
+                margin: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                child: ListTile(
+                  leading: Icon(
+                    Icons.phone,
+                    color: Colors.teal.shade900,
+                  ),
+                  title: Text(
+                    '+92 346 9194800',
+                    style: TextStyle(
+                        color: Colors.teal.shade900,
+                        fontSize: 15,
+                        fontFamily: 'SourceSansPro'),
+                  ),
                 ),
-                padding: EdgeInsets.all(10),
-                child: Row(
-                  children: [
-                    Icon(
-                      Icons.email,
-                      color: Colors.teal.shade900,
-                    ),
-                    SizedBox(
-                      width: 10,
-                    ),
-                    Text(
-                      'hassan@hassanmehmood.com',
-                      style: TextStyle(
-                          color: Colors.teal.shade900,
-                          fontSize: 15,
-                          fontFamily: 'SourceSansPro'),
-                    ),
-                  ],
+              ),
+              Card(
+                color: Colors.white,
+                margin: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                child: ListTile(
+                  leading: Icon(
+                    Icons.email,
+                    color: Colors.teal.shade900,
+                  ),
+                  title: Text(
+                    'hassan@hassanmehmood.com',
+                    style: TextStyle(
+                        color: Colors.teal.shade900,
+                        fontSize: 15,
+                        fontFamily: 'SourceSansPro'),
+                  ),
                 ),
               ),
             ],
