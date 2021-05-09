@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="784ea667-485d-4c2d-8a22-adcb2103c9f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fonts/Pacifico-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hassan.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +55,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
@@ -48,22 +83,46 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="946" height="161" key="GridCell.Tab.0.bottom" timestamp="1619999397601">
-      <screen x="0" y="23" width="1280" height="707" />
+    <state width="946" height="161" key="GridCell.Tab.0.bottom" timestamp="1620556294765">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="946" height="161" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1619999397601" />
-    <state width="946" height="161" key="GridCell.Tab.0.center" timestamp="1619999397601">
-      <screen x="0" y="23" width="1280" height="707" />
+    <state width="946" height="161" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1620556294765" />
+    <state width="946" height="161" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1620516756299" />
+    <state width="946" height="161" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1620509246577" />
+    <state width="946" height="161" key="GridCell.Tab.0.center" timestamp="1620556294765">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="946" height="161" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1619999397601" />
-    <state width="946" height="161" key="GridCell.Tab.0.left" timestamp="1619999397600">
-      <screen x="0" y="23" width="1280" height="707" />
+    <state width="946" height="161" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1620556294765" />
+    <state width="946" height="161" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1620516756299" />
+    <state width="946" height="161" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1620509246576" />
+    <state width="946" height="161" key="GridCell.Tab.0.left" timestamp="1620556294764">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="946" height="161" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1619999397600" />
-    <state width="946" height="161" key="GridCell.Tab.0.right" timestamp="1619999397601">
-      <screen x="0" y="23" width="1280" height="707" />
+    <state width="946" height="161" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1620556294764" />
+    <state width="946" height="161" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1620516756298" />
+    <state width="946" height="161" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1620509246576" />
+    <state width="946" height="161" key="GridCell.Tab.0.right" timestamp="1620556294765">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="946" height="161" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1619999397601" />
+    <state width="946" height="161" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1620556294765" />
+    <state width="946" height="161" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1620516756299" />
+    <state width="946" height="161" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1620509246576" />
   </component>
 </project>
